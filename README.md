@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anwr673
-- 👀 I’m interested in ... codding
-- 🌱 I’m currently learning ... ruby
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... C#
 - 💞️ I’m looking to collaborate on ... programming
 - 📫 How to reach me ... 967711034318 whatsapp
 
